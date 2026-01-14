@@ -1,2 +1,2 @@
 # Data-Analyst-Weather-Dashboard
-You built an interactive Weather Analytics Dashboard using Power BI. It presents current weather conditions, air quality metrics, and forecast trends through clean visuals and interactivity. The project highlights your skills in data modeling, DAX, and dashboard design.
+Live Weather Analytics Dashboard in Power BI. This project uses live weather API data to deliver real time insights. It covers current weather conditions, air quality metrics, and forecast analysis. DAX measures are used for calculations, AQI classification, and conditional formatting. The dashboard focuses on clarity, usability, and data driven decision support. This project demonstrates practical use of Power BI for real time analytics.
